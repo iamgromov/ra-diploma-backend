@@ -2,5 +2,5 @@
 
 1. Скачайте сервер
 2. Установите зависимости `npm i`
-3. Запустите сервер `npm run watch`
+3. Запустите сервер `npm run dev`
 4. Перейдите по [ссылке](https://iamgromov.github.io/ra-diploma)
